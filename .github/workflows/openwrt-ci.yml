@@ -167,6 +167,8 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           CONFIG_PACKAGE_luci-app-wireguard=y
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
+          CONFIG_PACKAGE_luci-app-unblockmusic=y
+          CONFIG_PACKAGE_luci-app-syncdial=y
           EOF
 
           # LuCI主题:
